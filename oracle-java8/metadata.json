@@ -1,0 +1,30 @@
+{
+  "name": "oracle-java8",
+  "description": "oracle-java8",
+  "long_description": "Description....",
+  "maintainer": ".",
+  "maintainer_email": "",
+  "license": "Apache 2.0",
+  "platforms": {
+  },
+  "dependencies": { "chef-apt-repo" : ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "oracle-java8::default": "Installs various programs"
+  },
+  "version": "1.0.1"
+}
